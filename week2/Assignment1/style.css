@@ -21,8 +21,8 @@ html {
   article {
     padding: 10px;
     margin: 10px;
-    background: aqua;
-    flex: 2 20 100px;
+    background: rgb(206, 206, 206);
+    flex: 2 20 350px;
    
   }
 section{
