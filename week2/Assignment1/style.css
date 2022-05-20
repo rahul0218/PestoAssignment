@@ -21,13 +21,8 @@ html {
   article {
     padding: 10px;
     margin: 10px;
-<<<<<<< HEAD
-    background: rgb(228, 230, 230);
-    flex: 2 20 450px;
-=======
     background: rgb(206, 206, 206);
     flex: 2 20 350px;
->>>>>>> 0343910b0232cd7abd40dda488ff2c51ebef1456
    
   }
 section{
