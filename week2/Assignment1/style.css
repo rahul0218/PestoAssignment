@@ -22,9 +22,8 @@ html {
     padding: 10px;
     margin: 10px;
     background: aqua;
-    flex: 2 20 50px;
-    width: 663px;
-    height: 663px;
+    flex: 2 20 100px;
+   
   }
 section{
     display: flex;
