@@ -7,13 +7,13 @@ html {
   }
 
   header {
-    background: purple;
+    background: rgb(128, 0, 128);
     height: 100px;
   }
 
   h1 {
     text-align: center;
-    color: white;
+    color: rgb(255, 255, 255);
     line-height: 100px;
     margin: 0;
   }
@@ -21,13 +21,19 @@ html {
   article {
     padding: 10px;
     margin: 10px;
-    background: aqua;
-    flex: 2 20 100px;
+    background: rgb(228, 230, 230);
+    flex: 2 20 450px;
    
   }
 section{
     display: flex;
     flex-wrap: wrap;
 
+}
+
+footer {
+  padding: 10px 20px;
+  background:rgb(128, 0, 128);
+  color: rgb(255, 255, 255);
 }
 
